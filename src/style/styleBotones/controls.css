@@ -1,0 +1,65 @@
+.controls{
+    width:200px;
+    padding-top:5px;
+    border:solid 2px transparent;
+    background-color: transparent;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.btn{
+    padding:0;
+    border-radius:50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn-primary{
+    width:50px;
+    height:50px;
+    background-color:whitesmoke;
+    border: none;
+}
+.btn-primary span{
+    width:100%;
+    height:100%;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    border-radius: 50%;
+}
+.btn-primary span > svg{
+    fill:black;
+    padding-left: 2px;
+}
+#btn-pause{
+    padding:0px;
+}
+.btn-secondary{
+    width:35px;
+    height:35px;
+    border:none;
+    background-color:transparent;
+}
+.btn-secondary span{
+    width:100%;
+    height:100%;
+    font-size: 24px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: transparent;
+    border-radius: 50%;
+}
+.btn-secondary span > svg{
+    fill:whitesmoke;
+    
+}
+
+.minutes{
+    color:antiquewhite;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

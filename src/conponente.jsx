@@ -22,7 +22,7 @@ const canciones = [
     artista:"Avicii",
   },
   {
-    imgUrl : "/public/img/los-amigos-invisibles.jpg",
+    imgUrl : "https://marvelous-vacherin-a8c0dc.netlify.app/img/los-amigos-invisibles.jpg",
     url:"https://ia600503.us.archive.org/30/items/daft_20230926/Yonose.mp3",
     nombre:"Yo no se ",
     artista:"Los Amigos Invisibles",

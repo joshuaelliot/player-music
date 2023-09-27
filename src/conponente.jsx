@@ -10,26 +10,26 @@ import "./style/styleBotones/controls.css"
 
 const canciones = [
   {
-    imgUrl : "./public/img/daf-punk.jpeg",
+    imgUrl : "../public/img/daf-punk.jpeg",
     url:"../public/songs/daft.mp3",
     nombre:"Infinity Repeating",
     artista:"Daft Punk",
   },
   {
-    imgUrl : "./public/img/stories.jpg",
+    imgUrl : "../public/img/stories.jpg",
     url:"https://archive.org/download/stories_20220331/03%2C%20Touch%20me.mp3",
     nombre:"Touch me",
     artista:"Avicii",
   },
   {
-    imgUrl : "./public/img/los-amigos-invisibles.jpg",
-    url:"./public/songs/Yonose.mp3",
+    imgUrl : "../public/img/los-amigos-invisibles.jpg",
+    url:"../public/songs/Yonose.mp3",
     nombre:"Yo no se ",
     artista:"Los Amigos Invisibles",
   },
   {
-    imgUrl:"./public/img/true.jpeg",
-    url:"./public/songs/HeyBrother.mp3",
+    imgUrl:"../public/img/true.jpeg",
+    url:"../public/songs/HeyBrother.mp3",
     nombre:"Hey Brother",
     artista:"Avicii",
   },

@@ -11,7 +11,7 @@ import "./style/styleBotones/controls.css"
 const canciones = [
   {
     imgUrl : "https://ia904703.us.archive.org/13/items/daf-punk/daf-punk.jpeg",
-    url:"../public/songs/daft.mp3",
+    url:"https://ia800503.us.archive.org/30/items/daft_20230926/daft.mp3",
     nombre:"Infinity Repeating",
     artista:"Daft Punk",
   },

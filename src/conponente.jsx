@@ -10,7 +10,7 @@ import "./style/styleBotones/controls.css"
 
 const canciones = [
   {
-    imgUrl : "https://i.pinimg.com/736x/21/04/70/210470c03b75e06cd0121538e5146b11.jpg",
+    imgUrl : "https://ia904703.us.archive.org/13/items/daf-punk/daf-punk.jpeg",
     url:"../public/songs/daft.mp3",
     nombre:"Infinity Repeating",
     artista:"Daft Punk",

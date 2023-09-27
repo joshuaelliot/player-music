@@ -16,7 +16,7 @@ const canciones = [
     artista:"Daft Punk",
   },
   {
-    imgUrl : "",
+    imgUrl : "https://marvelous-vacherin-a8c0dc.netlify.app/img/stories.jpg",
     url:"https://archive.org/download/stories_20220331/03%2C%20Touch%20me.mp3",
     nombre:"Touch me",
     artista:"Avicii",

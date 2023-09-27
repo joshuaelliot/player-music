@@ -28,8 +28,8 @@ const canciones = [
     artista:"Los Amigos Invisibles",
   },
   {
-    imgUrl:"../public/img/true.jpeg",
-    url:"../public/songs/HeyBrother.mp3",
+    imgUrl:"https://marvelous-vacherin-a8c0dc.netlify.app/img/true.jpeg",
+    url:"https://marvelous-vacherin-a8c0dc.netlify.app/songs/HeyBrother.mp3",
     nombre:"Hey Brother",
     artista:"Avicii",
   },

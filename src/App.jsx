@@ -61,7 +61,8 @@ function App() {
         <figure>
           <img
           onLoad={cargaImagen}
-          src={imagenUrl} alt="" />
+          src={imagenUrl} alt=""
+          crossOrigin='anonymous' />
         </figure>
         <div className='dates-song-container'>
           <div className='name-song-container'>

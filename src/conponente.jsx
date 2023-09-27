@@ -10,13 +10,13 @@ import "./style/styleBotones/controls.css"
 
 const canciones = [
   {
-    imgUrl : "../public/img/daf-punk.jpeg",
+    imgUrl : "https://i.pinimg.com/736x/21/04/70/210470c03b75e06cd0121538e5146b11.jpg",
     url:"../public/songs/daft.mp3",
     nombre:"Infinity Repeating",
     artista:"Daft Punk",
   },
   {
-    imgUrl : "../public/img/stories.jpg",
+    imgUrl : "",
     url:"https://archive.org/download/stories_20220331/03%2C%20Touch%20me.mp3",
     nombre:"Touch me",
     artista:"Avicii",
